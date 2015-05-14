@@ -1,0 +1,10 @@
+  p{
+    color:green;
+   }
+  
+  /*Css syntax is different from html syntax, a selector can be any html element, such as <p>, <img> or <table>, but just remove the <>'s. 
+  To make a paragraph's text red, you would type the code above.
+  A property is an aspect of a selector, eg. font-family, color, and font-size of the text on your web pages(in addition to many more)
+  A value is a possible setting for a property, eg, color can be red, blue, black etc; font-family can be a bunch or different fonts etc. 
+  Don't forget to end each property with a ; (semi-colon), thats how css knows you're done with one pair and ready for the next */
+  
