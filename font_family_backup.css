@@ -1,0 +1,13 @@
+h1{
+    font-family:Times, Serif;
+  }
+
+h2{ 
+    font-family:Verdana, Sans-serif;
+  }
+  
+h3{
+    font-family:Vivaldi, Cursive;
+ }
+
+/* you don't have to jump into a default value, you can give css a list to try first before going to the default. That way if the users computer doesn't have that font type it has others to fall back on */
