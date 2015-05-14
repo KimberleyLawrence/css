@@ -1,0 +1,12 @@
+/* adjusting the style, colour and details of a tables columns and boarders*/
+td{
+    height:50px;
+    border:1px;
+    border-color:blue;
+    border-style:dashed;
+}
+table{
+    border:1px;
+    border-color:black;
+}
+
