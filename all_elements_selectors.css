@@ -1,0 +1,5 @@
+body{
+    background-color:#C6E2ff;
+}
+
+/*any html element can be a css selector, you can modify <ul>'s <table>'s, <body> etc. The code above will make the entire body a particular colour*/
