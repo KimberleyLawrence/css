@@ -1,0 +1,5 @@
+
+/* nested css for nested div h3 in html*/
+div div div h3{
+    color:red
+}
