@@ -1,0 +1,5 @@
+*{
+    border: 1px dashed;
+    border-color:#3A5FCD;
+}
+/*Universal selectors= this is a very special selector you can use to apply css styling to every element on the page, using the * selector.*/
