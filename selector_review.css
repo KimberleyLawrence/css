@@ -1,0 +1,14 @@
+p{
+    color:#00E5EE;
+}
+
+div p{
+    color:#CC0000;
+}
+/* remember * selects every item in the html doc*/
+*{
+    border-style:solid;
+    border-size: 2px;
+    border-color:#3A5FCD;
+}
+    
