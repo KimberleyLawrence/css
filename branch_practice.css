@@ -1,0 +1,5 @@
+/*targeted only the <a>'s that were children of the <li>'s*/
+li a{
+    text-decoration:none;
+    font-family:cursive;
+}
