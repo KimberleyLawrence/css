@@ -1,0 +1,25 @@
+
+/* make all p tags, font family set to Garamond*/
+p{ 
+    font-family:Garamond;
+}
+
+/*make the introduction and summary paragraph have the font-weight of bold*/
+body > p{ 
+    font-weight:bold;
+}
+
+/*Make the synopsis paragraph have the color #7AC5CD*/
+div > p{
+    color:#7AC5CD;
+}
+
+/*make the paragraphs in the unordered list have the color #000000 and text-decoration underline. To do this you have to go through, div, then ul, then li, then the p*/
+div > ul > li > p{
+    color:#000000;
+    text-decoration:underline;
+}
+
+
+/* Notes; remember you can always reach an element that is a child of another element like; div div p {color:red}. 
+When you need to grab direct children (that is an element that is directly nested inside another element, with no elements inbetween) you can use the symbol > as seen in the code above*/
