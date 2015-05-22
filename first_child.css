@@ -1,0 +1,4 @@
+/*First-child is a pseudo-class selector that applys styling to only the elements that are first children of the parents*/
+p:first-child{
+    font-family:cursive;
+}
