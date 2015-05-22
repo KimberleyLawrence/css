@@ -1,0 +1,21 @@
+/*First-child is a pseudo-class selector that applys styling to only the elements that are first children of the parents*/
+p:first-child{
+    font-family:cursive;
+}
+/* nth-child is a pseudo-class selector that allows you to select any child of an element, just add a the child's number in between the brackets at the end.
+second child of p*/
+p:nth-child(2){
+    font-family:Tahoma;
+}
+/*third child of p*/
+p:nth-child(3){
+    color:#CC0000;
+}
+/*fourth child of p*/
+p:nth-child(4){
+    background-color:#00FF00;
+}
+/*fifth child of p*/
+p:nth-child(5){
+    font-size:22px;
+}
