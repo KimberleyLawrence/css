@@ -1,0 +1,14 @@
+/* an unvisited link*/
+a:link{
+    text-decoration:none;
+    color:#008B45;
+}
+/*a link you are hovering over*/
+a:hover{
+    color:#00FF00;
+}
+/*a link you have visited*/
+a:visited{
+    color:#EE9A00;
+}
+/* a is for the a tag used to find the link in the html code*/
