@@ -26,3 +26,6 @@ div {
 #four {
 	background-color: #308014;
 }
+/* <div>s got squished to the smallest possible width!
+
+The inline display value is better suited for HTML elements that are blocks by default, such as headers and paragraphs.*/
