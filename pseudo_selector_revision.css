@@ -1,0 +1,14 @@
+/*Add your CSS below!*/
+.fancy{
+    font-family:cursive;
+    color:violet;
+}
+#serious{
+    font-family:Courier;
+    color:#8C8C8C;
+}
+/* remember the p is the 3rd paragraph, but the 4th child from the body! nth-body counts from a parent, in this case, the body */
+p:nth-child(4){
+    font-size:26px;
+}
+    
