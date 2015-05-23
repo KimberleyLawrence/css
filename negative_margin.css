@@ -1,0 +1,21 @@
+* {
+	border: 1px dashed black;
+}
+
+div {
+	height: 50px;
+	width: 100px;
+	border: 4px solid #FF0000;
+	border-radius: 5px;
+	background-color: #308014;
+	/* margin top set into negative values allows the element to move in the other direction - in this case 20px up*/
+	margin-top:-20px;
+	margin-right:50px;
+	margin-bottom:10px;
+	margin-left:5px;
+	/*can also be written like this
+	margin:20px 50px 10px 5px
+	read starting at the top and going clockwise around the box*/
+	padding: 40px;
+	/*padding can also be written in both ways like margin (indiviually and all on one line. The 3rd way is like above, this will give the same amount of padding around the entire box. */
+}
