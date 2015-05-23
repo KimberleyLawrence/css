@@ -1,0 +1,22 @@
+div{
+    border-radius:5px;
+}
+#header{
+    background-color:#FFCCCC;
+    height: 50px;
+    position:fixed;
+    z-index:1;
+}
+.left{
+    background-color:#CCFFCC;
+    width:100px;
+}
+
+.right{
+    background-color:#99CCFF;
+    width:70px;
+}
+#footer{
+    background-color:#FFFCCC;
+    width:30px;
+}
