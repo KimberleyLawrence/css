@@ -1,0 +1,18 @@
+* {
+	border: 1px dashed black;
+}
+
+div {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #308014;
+	margin-top:20px;
+	margin-right:50px;
+	margin-bottom:10px;
+	margin-left:5px;
+	/*can also be written like this
+	margin:20px 50px 10px 5px
+	read starting at the top and going clockwise around the box*/
+}
