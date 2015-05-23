@@ -1,0 +1,20 @@
+div{
+    border-radius:5px;
+}
+#header{
+    background-color:#FFCCCC;
+    height: 150px;
+}
+.left{
+    background-color:#CCFFCC;
+    width:100px;
+}
+
+.right{
+    background-color:#99CCFF;
+    width:70px;
+}
+#footer{
+    background-color:#FFFCCC;
+    width:50px;
+}
